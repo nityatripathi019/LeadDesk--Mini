@@ -181,18 +181,6 @@ Login using your stored admin credentials.
 
 ---
 
-## Future Improvements
-
-* Multiple admin accounts
-* Email notifications for new leads
-* Dashboard analytics
-* Pagination
-* Filter leads by status
-* Forgot password functionality
-* Role-based access control
-
----
-
 ## Author
 
 **Nitya Tripathi**
